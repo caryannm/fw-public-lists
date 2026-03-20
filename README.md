@@ -13,13 +13,19 @@ A community-maintained collection of optional blocklists and other curated datas
 
 These lists are **not required** for Firewalla operation. They are strictly optional tools for users who want them.
 
-## Current Lists
+## Current Community Lists
 
 These are NOT the same as the built-in [Target Lists](https://help.firewalla.com/hc/en-us/articles/1500005941962-Firewalla-Feature-Target-Lists#h_01FZ87M2M19TBZG2FS585GZFAC) listed in the Firewalla App. Lists may eventually be synced back to the Firewalla App after proper testing over time.
 
 - [NSFW AI List](https://github.com/firewalla/fw-public-lists/blob/main/nsfw-ai.txt)
 - [AI Providers List](https://github.com/firewalla/fw-public-lists/blob/main/ai-provider.txt)
 - [uBlockOrigin's Huge AI Blocklist](https://github.com/firewalla/fw-public-lists/blob/main/ublockorigins-huge-ai-blocklist.txt)
+- [HaGeZi's Multi Light](https://github.com/firewalla/fw-public-lists/blob/main/hagezi-light.txt)
+- [HaGeZi's Multi Normal](https://github.com/firewalla/fw-public-lists/blob/main/hagezi-normal.txt)
+- [HaGeZi's Threat Intelligence Feeds](https://github.com/firewalla/fw-public-lists/blob/main/hagezi-tif.txt)
+
+> [!NOTE]
+> [Firewalla MSP](https://firewalla.net/) also allows you to **[Import a Target List](https://help.firewalla.com/hc/en-us/articles/1500005941962-Firewalla-Feature-Target-Lists#01JW9N9CT1T5GGRKFXHH2DYVFE)** from a 3rd-party. Those lists are separate from the community lists above. [See the full list of supported imported Target Lists here](https://help.firewalla.com/hc/en-us/articles/1500005941962-Firewalla-Feature-Target-Lists#h_01JS504BRZFQCNMDA5BF9D5Z4Q).
 
 ## Contributing Guidelines
 
@@ -54,7 +60,7 @@ We also support pointers to external lists maintained by another party. In this 
 
 - **Original Author**: Company, organization, or GitHub username of the maintainer.
 
-Then, simply add a link to the raw host text file, **preceeded by** `@`.
+Then, simply add a link to the raw host text file, **preceeded by** `@`. Please use the **domain** host list if available.
 
 Example:
 
