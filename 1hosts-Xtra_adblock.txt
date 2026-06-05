@@ -1,0 +1,6 @@
+# Title: 1Hosts (Xtra) - Adblock
+# Description: Advanced DNS filter/blocklist for privacy, security, and clean browsing. The Xtra variant is an aggressive list designed for maximum blocking against emerging privacy threats, ads, trackers, and malware.
+# Homepage: https://github.com/badmojr/1Hosts
+# License: https://github.com/badmojr/1Hosts/blob/master/LICENSE
+# Original Author: badmojr
+@https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
